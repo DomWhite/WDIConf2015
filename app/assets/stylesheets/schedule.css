@@ -138,15 +138,14 @@
     border: none;
     background: rgba(231, 76, 60, 1.0);
     padding: 4px 8px;
-   /*font-family: 'Roboto Condensed', Arial, Sans-Serif;*/
     text-decoration: none;
     vertical-align: middle;
     position: absolute;
     bottom: 0px;
     font-size: 20px;
     color: white;
-    border-shadow: ;
    }
+
   .btnBookNow-sq a {
     color: white;
     text-decoration: none;
